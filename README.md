@@ -1,9 +1,8 @@
 # <h1 align=center> **Deteccion de Emociones** </h1>
 
-# <h1 align=center>**`Machine Learning Operations (MLOps)`**</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/67664604/217914153-1eb00e25-ac08-4dfa-aaf8-53c09038f082.png"  height=300>
+<img src="https://github.com/rodcordova/Deteccion-de-emociones/blob/master/images/portada.png"  height=300>
 </p>
 
 # Proyecto de Análisis de Sentimientos de Criptomonedas
