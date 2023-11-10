@@ -31,12 +31,8 @@ Se accede a diversas fuentes de información, incluyendo:
 
 ## Instrucciones de Ejecución
 
-1. Clona este repositorio: `git clone https://github.com/tu_usuario/tu_repositorio.git`
+1. Clona este repositorio: `git clone https://github.com/rodcordova/Deteccion-de-emociones`
 2. Instala las dependencias: `pip install -r requirements.txt`
-3. Ejecuta el código principal: `python main.py`
-
-## Créditos y Citas
-
-- 
+3. Ejecuta el código principal: `Los notebooks`
 
 
