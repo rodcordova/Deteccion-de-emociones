@@ -5,7 +5,7 @@
 <img src="https://github.com/rodcordova/Deteccion-de-emociones/blob/master/images/portada.png"  height=300>
 </p>
 
-# Proyecto de Análisis de Sentimientos de Criptomonedas
+## Proyecto de Análisis de Sentimientos de Criptomonedas
 
 ## Introducción
 
