@@ -34,5 +34,5 @@ Se accede a diversas fuentes de información, incluyendo:
 1. Clona este repositorio: `git clone https://github.com/rodcordova/Deteccion-de-emociones`
 2. Instala las dependencias: `pip install -r requirements.txt`
 3. Ejecuta el código principal: `Los notebooks`
-4. Ejecutar una interfaz para uso interactivo: `https://deteccion-de-emociones-olmpcph6mez8bqone98q4o.streamlit.app/`
+4. Ejecutar una interfaz para uso interactivo(localmente): `streamlit run .\streamlit.py`
 
